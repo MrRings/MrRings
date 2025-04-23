@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @MrRings
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hey there! I'm Ringisai 
 
-<!---
-MrRings/MrRings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate developer who loves building cool stuff, solving problems, and constantly learning new things.  
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on: ofcourse more development.
+- 🌱 I’m learning: Technologies or concepts .
+- 🧰 Tech stack:  `Vue`, `Node.js`, `Tailwind`, `Firebase`
+- 💬 Ask me about: Anything tech-related, or just say hi!
+- 🎯 Fun fact: coding gives me wiings !!!
