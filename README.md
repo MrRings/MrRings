@@ -62,7 +62,7 @@ A self-motivated and hardworking Computer Science major with a strong desire to 
   Focus: HTML, CSS, Flexbox, CSS Grid, responsive design principles.
 
 ## 🌐 Connect with Me
-- [LinkedIn](your_linkedin_url) <!-- Replace with your LinkedIn URL -->
+- [LinkedIn](https://www.linkedin.com/in/ringisai-ruwona?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <!-- Replace with your LinkedIn URL -->
 - [Twitter](your_twitter_url) <!-- Replace with your Twitter URL -->
 - [Personal Website](your_website_url) <!-- Replace with your personal website URL -->
 
