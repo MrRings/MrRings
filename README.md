@@ -13,4 +13,5 @@ A self-motivated and hardworking Computer Science major with a strong desire to 
 - **Cloud Platforms:** AWS (S3, EC2, CloudFront)
 - **Database Management:** MySQL, PostgreSQL, MongoDB
 - **Web Development:** REST APIs, Full-stack development
+- **Mobile App Development:** Java , Android APIs, Full-stack development
 - **CI/CD:** GitHub Actions, Jenkins
