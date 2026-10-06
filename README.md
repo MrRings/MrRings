@@ -14,4 +14,5 @@ A self-motivated and hardworking Computer Science major with a strong desire to 
 - **Database Management:** MySQL, PostgreSQL, MongoDB
 - **Web Development:** REST APIs, Full-stack development
 - **Mobile App Development:** Java , Android APIs, Full-stack development
+- **Cybersecurity & IT Support :** Mobile & Website hacking , tracking , OWASP
 - **CI/CD:** GitHub Actions, Jenkins
